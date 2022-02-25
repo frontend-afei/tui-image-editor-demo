@@ -1,5 +1,5 @@
 # tui-image-editor-demo
-
+使用tui-image-editor，实现图片的旋转、缩放、裁剪、涂鸦、标注等功能
 ## Project setup
 ```
 npm install
