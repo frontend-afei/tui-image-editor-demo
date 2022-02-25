@@ -1,7 +1,7 @@
 <template>
   <div class="drawing-container">
     <div id="tui-image-editor"></div>
-    <button class="save" type="primary" size="small" @click="save">保存</button>
+    <button class="save" @click="save">保存</button>
   </div>
 </template>
 <script>
